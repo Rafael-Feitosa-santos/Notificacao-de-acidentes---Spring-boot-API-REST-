@@ -25,3 +25,7 @@ O projeto segue uma arquitetura em camadas, dividida nas seguintes partes:
 - **Service**: Camada onde estão implementadas as regras de negócio.
 - **Repository**: Camada responsável pela interação com o banco de dados Oracle.
 - **Model**: Camada que define as entidades e modelos de dados.
+
+# Autores
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127707049?v=4" width=115><br><sub>Rafael Feitosa Santos</sub>](https://github.com/Rafael-Feitosa-santos) | 
+| :---: |
