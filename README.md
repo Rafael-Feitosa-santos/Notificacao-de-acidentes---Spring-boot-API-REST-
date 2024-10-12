@@ -17,6 +17,12 @@ Este é um projeto desenvolvido em Spring Boot para gerenciar a notificação de
 - **Oracle** para armazenamento de dados.
 - **Postman** para envio das requisições https.
 
+  ## Build e execução
+
+```sh
+docker compose up --build
+```
+
 ## Arquitetura do Projeto
 
 O projeto segue uma arquitetura em camadas, dividida nas seguintes partes:
